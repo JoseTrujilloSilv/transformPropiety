@@ -17,17 +17,9 @@ Métodos:
 
     ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
     ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
-    div {
-  transform: rotate(20deg);
-} // Rota el objeto 20 grados
-
-div {
-  transform: skew(20deg, 10deg);
-} // Distorsiona el objeto 20 grados en el ejeX y 10 en el Y
-
-div {
-  transform: scale(0.5); // Disminuye el objeto en un 50%
-}
+    //div {transform: rotate(20deg);} // Rota el objeto 20 grados 
+    //div {transform: skew(20deg, 10deg);} // Distorsiona el objeto 20 grados en el ejeX y 10 en el Y 
+    //div {transform: scale(0.5); // Disminuye el objeto en un 50%}
     
     ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
